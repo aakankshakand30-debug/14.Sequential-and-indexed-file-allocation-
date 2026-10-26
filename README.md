@@ -1,1 +1,1 @@
-# 14-.-Sequential-and-indexed-file-allocation-
+# 14.Sequential-and-indexed-file-allocation-
